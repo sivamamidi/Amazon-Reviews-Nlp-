@@ -1,6 +1,3 @@
-# Amazon-Reviews-Nlp-
-To text classification of reviews
-Those reviews has converted to binary format
-Those data has feed into LSTM 
-To predict the reviews of the prodcut .
-And deploy the model in flask
+# Amazon Reviews NLP
+
+Perform text classification on reviews. These reviews are converted to binary format and fed into an LSTM to predict product sentiment. The model is deployed with Flask.
